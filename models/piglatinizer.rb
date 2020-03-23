@@ -1,16 +1,16 @@
-class PigLatinizer
+# class PigLatinizer
   
-  attr_reader :text 
+#   attr_reader :text 
   
-  def initialize(text)
-    @text = text.downcase
-  end
+#   def initialize(text)
+#     @text = text.downcase
+#   end
   
-  def split_phrase
-    phrase = text.split(" ")
-    phrase
-  end
+#   def split_phrase
+#     phrase = text.split(" ")
+#     phrase
+#   end
   
   
   
-end 
+# end 
